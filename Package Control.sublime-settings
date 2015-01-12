@@ -10,7 +10,6 @@
 	"installed_packages":
 	[
 		"AutoPEP8",
-		"BracketHighlighter",
 		"ConvertToUTF8",
 		"JsFormat",
 		"Monokai Extended",
